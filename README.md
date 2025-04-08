@@ -67,7 +67,7 @@ Author
 
 Avinash Anand
 - GitHub: [@avi536](https://github.com/avi536)
-- LinkedIn: [Avinash Anand]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/avinash-anand)])
+- LinkedIn: [Avinash Anand](https://www.linkedin.com/in/avinash-anand)
 
 
 This project was created as part of a coding assignment to demonstrate React skills and API integration capabilities.
