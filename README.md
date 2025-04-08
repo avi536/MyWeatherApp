@@ -1,4 +1,4 @@
-<img width="827" alt="image" src="https://github.com/user-attachments/assets/c349ce6a-0a77-4c33-aade-a245664ef68c" /># Weather Dashboard
+Weather Dashboard
 
 A responsive React application that displays current weather information for any city using the OpenWeatherMap API.
 
